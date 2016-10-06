@@ -122,12 +122,6 @@ def unique_rows(matrix):
     """
     pass
 
-######################################################################
-# Test Cases
-######################################################################
-
-
-
 # Zero Sum
 #
 # Return True if a subarray (not any element) summed can create 0.
